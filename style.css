@@ -1,0 +1,15 @@
+body {
+  font-family: system-ui;
+}
+.container-fluid {
+  padding: 10px 50px;
+}
+.main_container {
+  padding: 10px 25px;
+  color: #000;
+  background-color: #999;
+  margin: 28px 0;
+}
+.main_text {
+  font-size: 18px;
+}
